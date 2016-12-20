@@ -10,3 +10,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/ishop-admin/ishop-admin.iml
+/ishop-db-service/ishop-db-service.iml
+/ishop-db-api/ishop-db-api.iml
+/ishop-web-api/target/
+/ishop.iml
+/ishop-web-api/ishop-web-api.iml
+/ishop-common/ishop-common.iml
+/ishop-db-api/target/
+/ishop-admin/target/
+/ishop-common/target/
+/ishop-db-service/target/

@@ -52,13 +52,6 @@
             </properties>
         </profile>
 
-       <!-- <profile>
-            <id>dev</id>
-            <properties>
-                <myenv>dev</myenv>
-            </properties>
-        </profile>-->
-
         <profile>
             <id>prod</id>
             <properties>
